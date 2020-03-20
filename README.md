@@ -7,6 +7,6 @@
 Visualização da tela de cadastro, atualização e listagem de alunos:
 
 
-![Printscreen do CRUD de Alunos](https://github.com/michellerclopes/faculdade/tree/master/JavaApplicationMySQLComStatement/printscreen.png "Printscreen do CRUD de Alunos")
+![Printscreen do CRUD de Alunos](https://github.com/michellerclopes/faculdade/blob/master/JavaApplicationMySQLComStatement/printscreen.png "Printscreen do CRUD de Alunos")
 
 
