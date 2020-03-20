@@ -1,0 +1,6 @@
+create table  aluno
+(
+        id BIGINT not null primary key,
+        Nome VARCHAR(40) not null,
+        CPF VARCHAR(14) not null unique
+);
