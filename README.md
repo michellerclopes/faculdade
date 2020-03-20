@@ -1,8 +1,7 @@
-<h4>Desenvolvimento de Aplicações com Banco de Dados</h4>
+<h3>Desenvolvimento de Aplicações com Banco de Dados</h3>
 
 
-* [CRUD de Alunos](https://github.com/michellerclopes/faculdade/tree/master/JavaApplicationMySQLComStatement)
-
+:mortar_board: 	 [CRUD de Alunos](https://github.com/michellerclopes/faculdade/tree/master/JavaApplicationMySQLComStatement) 
 
 Visualização da tela de cadastro, atualização e listagem de alunos:
 
